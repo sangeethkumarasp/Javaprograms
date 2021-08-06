@@ -15,6 +15,9 @@ cq.med1(x,y);
 		System.out.println(cq.med1(x,y));
 		
 		
+		///dono its for git merge
+		
+		
 	}
 	
 	public int med1(int a,int b)
